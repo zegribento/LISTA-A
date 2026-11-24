@@ -51,7 +51,7 @@ const DEPARTMENT_HEADS = [
   },
   {
     department: 'Departamento para Assuntos Jurídicos',
-    name: 'Kiamy Carvalhos',
+    name: 'Daniel de Carvalho',
     role: 'Secretário',
     photo: '/assets/aistudio/kiamy_Carvalho_c794f09e.png',
     imgClass:
