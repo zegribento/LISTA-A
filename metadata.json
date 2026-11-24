@@ -1,0 +1,6 @@
+{
+  "name": "LISTA A · AEUGS",
+  "description": "A tua voz merece uma representação presente. Candidatura à Associação de Estudantes da Universidade Gregório Semedo (AEUGS).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
